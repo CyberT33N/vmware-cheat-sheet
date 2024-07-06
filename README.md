@@ -35,3 +35,5 @@ _________________________
 
 ## Host os freezing
 - When your host os is freezing randomly like 5- 10 minutes after you started your vm then try to disable 3d accelarition under the dsiplay tab
+  - Or try also to icnrease the cpu processor
+  - Or 
